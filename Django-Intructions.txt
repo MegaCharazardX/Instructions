@@ -1,0 +1,18 @@
+# -- Installation --
+    Run On Cmd Or Terminal --> pip install django
+
+# -- Create a django project --
+    * Navigate To The Needed Directory
+
+    Run On Cmd Or Terminal --> django-admin startproject < Name Of The project >
+    
+    * If the name of the project is the name any python mudule it won't work
+
+# -- Run server --
+    * Change Directory To The Project Directory Besides The mange.py File
+
+    Run On Cmd Or Terminal --> python manage.py runserver
+
+    * If needed to change the port 
+
+    Run On Cmd Or Terminal --> python manage.py runserver <Port>
